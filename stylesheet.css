@@ -1,0 +1,48 @@
+body{
+
+	background-color:rgb(250, 255, 253);
+
+}
+h1 {
+	color: rgb(255, 68, 0);
+	text-align: center;
+	border: 4px double rgb(219, 101, 130);
+	margin: 10 px;
+	padding: 30px;
+	font-size: 300%;
+}
+a {
+	border: ;
+	color: rgb(231, 54, 255);
+	font-size: 150%;
+	border: 2px solid black;
+	padding: 10px;
+	background-color: lightcyan;
+	text-align: center;
+}
+span{
+
+	text-align: center;
+	margin: 10px;
+	color: rgb(72, 0, 0);
+	font-size: 150%;
+ border: 2px solid black;
+	padding: 10px;
+	background-color: rgb(213, 87, 155);
+	
+}
+img {
+	align-content: center;
+	size: a5;
+	width: 400;
+	height: 400;
+
+}
+h3{
+	color: red;
+	font-size: 200%;
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
